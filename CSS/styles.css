@@ -1,3 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
-
+#wrapper {
+	background-color: aquamarine;
+	height: 1280px;
+	width: 980px;
+}
